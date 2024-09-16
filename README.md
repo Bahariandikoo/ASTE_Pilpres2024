@@ -1,2 +1,2 @@
-# ASTE_Pilpres2024
+# Aspect Sentiment Triplet Extraction
  
